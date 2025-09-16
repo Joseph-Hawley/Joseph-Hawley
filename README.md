@@ -19,10 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📜 Certifications</h2>
-- [CompTIA Security+ (SY0-701)](https://github.com/user-attachments/assets/8b3666ba-9ba5-4cbe-9a07-a113faccc077)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+  - [CompTIA Security+ SY0-701](https://private-user-images.githubusercontent.com/232479445/489813442-3cc8d961-b404-46ac-8704-fd37585dbcda.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc5ODc4NTcsIm5iZiI6MTc1Nzk4NzU1NywicGF0aCI6Ii8yMzI0Nzk0NDUvNDg5ODEzNDQyLTNjYzhkOTYxLWI0MDQtNDZhYy04NzA0LWZkMzc1ODVkYmNkYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQwMTUyMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNGE4MGIzNzk1NWQ1ZTJjNjFiNjMwYmYwZDk0ZDBlZGY4YTZjZmRjN2YxMWVlZGUzMjhjNDhhYWEyMTgxZGRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RhY9JkGn1kcC4e0cAki1Irng7TWA1p764WWASN-rRVk)
+  - [Splunk Core Certified User](https://private-user-images.githubusercontent.com/232479445/489814356-d2e48b88-9dcc-4a45-8b6f-8d3098063bb1.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc5ODgxMTcsIm5iZiI6MTc1Nzk4NzgxNywicGF0aCI6Ii8yMzI0Nzk0NDUvNDg5ODE0MzU2LWQyZTQ4Yjg4LTlkY2MtNGE0NS04YjZmLThkMzA5ODA2M2JiMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQwMTU2NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYjQ3ZGJhMDZjNjdhN2QzYzE3YWNkZDFlYTA3MjQ0NzY3ZDNiZDk0ZTdkYjFkNmEzOGI0MmE2MjcxNjM4NTUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-BhA0q2VfvCni55xttSs8ZOhsyjKhtttrwyKw6n8IAQ)
 
